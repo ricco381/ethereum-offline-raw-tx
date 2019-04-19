@@ -12,6 +12,7 @@
     "require": {
         "php": ">=7.1.0",
         "kornrunner/keccak": "^1.0",
+        "ricco381/secp256k1": "^0.2",
         "web3p/rlp": "^0.2"
     },
     "autoload": {
